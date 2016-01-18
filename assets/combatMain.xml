@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<vbox id="combatMain">
+
+	<text id="combatText" text="GAME TEXT" />
+
+	<grid id="combatOptionsGrid" horizontalAlign="center" columns="3">
+		<button id="combatOptionButton" text="Attack"/>
+		<button id="combatOptionButton" text="Wait"/>
+		<button id="combatOptionButton" text="Surrender"/>
+	</grid>
+</vbox>

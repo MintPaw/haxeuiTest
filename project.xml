@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<project>
+	
+	<meta title="HaxeuiTest" package="com.sample.haxeuitest" version="1.0.0" company="Company Name" />
+	<app main="Main" path="bin" file="HaxeuiTest" />
+	
+	<source path="src" />
+	
+	<haxelib name="openfl" />
+	<haxelib name="haxeui" />
+	
+	<assets path="assets" />
+	
+</project>
